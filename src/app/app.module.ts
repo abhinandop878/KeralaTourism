@@ -8,7 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { ContactComponent } from './contact/contact.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
-
+ 
 @NgModule({
   declarations: [
     AppComponent,
